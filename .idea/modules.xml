@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://Y:/Home/rauj/Documents/BestesRepository/.idea/BestesRepository.iml" filepath="Y:/Home/rauj/Documents/BestesRepository/.idea/BestesRepository.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mbs_visualisation/Lib/site-packages/h5py/.idea/h5py.iml" filepath="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mbs_visualisation/Lib/site-packages/h5py/.idea/h5py.iml" />
+      <module fileurl="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mbs_visualisation/Lib/site-packages/mat73/.idea/mat73.iml" filepath="$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/mbs_visualisation/Lib/site-packages/mat73/.idea/mat73.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mbs_visualisation.iml" filepath="$PROJECT_DIR$/.idea/mbs_visualisation.iml" />
+    </modules>
+  </component>
+</project>
